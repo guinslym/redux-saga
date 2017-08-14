@@ -308,6 +308,20 @@ Redux-Saga avec TypeScript nécessite DOM.Iterable ou ES2015.Iterable. Si votre 
 You can find the official Redux-Saga logo with different flavors in the [logo directory](logo).
 
 
+### Video
+https://www.youtube.com/watch?v=ByQknrU42mY
+https://www.youtube.com/watch?v=o3A9EvMspig
+https://www.youtube.com/watch?v=hfrnlxIZm3E
+https://www.youtube.com/watch?v=4aDyN5cOFBw
+https://www.youtube.com/watch?v=EifOGwAW5ZM
+https://www.youtube.com/watch?v=dOqhOg4ekRk
+
+### French helper for the translation
+
+facilite ainsi l’utilisation de bibliothèques comme redux-saga, où l’on attend un support pour les générateurs.
+https://www.monde-informatique.com/typescript-2-3-est-plus-intelligent-sur-les-normes-javascript/
+https://www.occitech.fr/blog/2016/03/comment-apprehender-lecosysteme-react/
+http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga
 ### Backers
 Support us with a monthly donation and help us continue our activities. \[[Become a backer](https://opencollective.com/redux-saga#backer)\]
 
