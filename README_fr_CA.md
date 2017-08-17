@@ -21,7 +21,7 @@ You might've used `redux-thunk` before to handle your data fetching. Contrary to
 
 ## translation 
 
-Redux-saga est une bibliothèque qui vise à rendre les effets secondaires de l'application (c'est-à-dire des choses asynchrones comme l'extraction de données et des objets impurs comme l'accès au cache du navigateur) plus faciles à gérer, plus efficaces à exécuter, simples à tester et mieux à gérer les pannes.
+Redux-saga est une  bibliothèque qui vise à rendre les effets secondaires de l'application (c'est-à-dire des choses asynchrones comme l'extraction de données et des objets impurs comme l'accès au cache du navigateur) plus faciles à gérer, plus efficaces à exécuter, simples à tester et mieux à gérer les pannes.
 
 Le modèle mental est qu'une saga est comme un fil distinct dans votre application qui est seul responsable des effets secondaires. Redux-saga est un middleware redux, ce qui signifie que ce thread peut être démarré, arrêté et annulé à partir de l'application principale avec des actions redux normales, il a accès à l'état complet de l'application redux et il peut également envoyer des actions redux.
 
